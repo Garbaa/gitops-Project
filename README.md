@@ -70,7 +70,6 @@ Default credentials: `admin` / `prom-operator`
 gitops-Project/
 ├── vagrant/
 │   ├── Vagrantfile              # 3-node cluster configuration
-│   └── scripts/                  # Provisioning scripts
 ├── declarative/
 │   ├── app-of-apps/              # Root ArgoCD application
 │   ├── manifests/                 # Application manifests
