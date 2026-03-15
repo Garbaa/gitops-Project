@@ -113,7 +113,7 @@ syncPolicy:
 
 ## 🙏 Credits
 
-The sample applications in `declarative/` are based on examples from [sidd-harth](https://github.com/sidd-harth/argocd-example-apps).
+The sample applications in `declarative/` are based on examples from [sidd-harth](https://github.com/sidd-harth/gitops-argocd/tree/main/declarative).
 
 ### My Contributions
 - ✅ Full infrastructure (Vagrant, kubeadm, Calico)
